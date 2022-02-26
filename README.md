@@ -7,7 +7,7 @@
 - Fantasy books.
 
 
-### Open to work as
+### Open to work as a:
 - ML engineer/researcher
 - Computer Vision
 
