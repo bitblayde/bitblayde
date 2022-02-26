@@ -10,11 +10,11 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/pablo_mn96#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/pablo_mn96#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pablo-manresa-b1865316b/?originalSubdomain=es#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pablo-manresa-b1865316b/?originalSubdomain=es#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/pablo_manresa/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pablo_manresa/#gh-dark-mode-only)
