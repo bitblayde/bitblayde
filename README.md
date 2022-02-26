@@ -1,11 +1,16 @@
 ### Hi there 👋
-
 - I've studied computer science degree and I'm currently finishing my MSc degree in Machine Learning and Data Science.
 - I enjoy training hard at the gym.
 - During my final degree project, I was researching and developing a Deep Learning system that has diagnostic capabilities in neurodegenerative diseases and the following development.
 - I'm doing my MSc thesis in the field of Few-shot learning and meta learning.
 - Dark Souls.
 - Fantasy books.
+
+
+### Open to work as
+- ML engineer/researcher
+- Computer Vision
+
 
 ### Connect with me:
 
