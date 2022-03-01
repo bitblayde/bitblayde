@@ -37,8 +37,3 @@
 </p>
 
 </details>
-
-
-[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify "Spotify")](https://open.spotify.com/user/1174706301?si=00yUHSwBTAef65z1sE5Rqw)
-![separator][separator]
- 
