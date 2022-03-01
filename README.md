@@ -38,4 +38,4 @@
 
 </details>
 
-[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify "Spotify")](https://open.spotify.com/user/1174706301)
+[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify "Spotify")](spotify:user:1174706301)
