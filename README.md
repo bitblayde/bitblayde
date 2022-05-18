@@ -6,6 +6,8 @@
 - Dark Souls.
 - Fantasy books.
 
+### Working as:
+- Machine Learning researcher focused on Neuroscience.
 
 ### Open to work as a:
 - ML engineer/researcher
