@@ -7,7 +7,7 @@
 - Fantasy books.
 
 ### Working as:
-- Machine Learning researcher focused on Neuroscience.
+- Machine Learning researcher focused on neuroimaging.
 
 ### Open to work as a:
 - ML engineer/researcher
