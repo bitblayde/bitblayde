@@ -12,6 +12,7 @@
 ### Open to work as a:
 - ML engineer/researcher
 - Computer Vision
+- Software Engineer
 
 
 ### Connect with me:
