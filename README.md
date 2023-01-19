@@ -29,14 +29,4 @@
 
 ---
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
 
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bitblayde&show_icons=true&title_color=fff&icon_color=F50606&text_color=C8FFF1&bg_color=151515&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bitblayde&layout=compact,&hide=css,java,html&theme=tokyonight">
-</p>
-
-</details>
